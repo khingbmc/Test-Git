@@ -11,4 +11,3 @@ def recur(number):
         return check
 main(int(input()))
 """hahahaa"""
-
