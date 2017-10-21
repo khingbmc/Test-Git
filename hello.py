@@ -10,3 +10,5 @@ def recur(number):
         check = recur(max(number - 1, 0))+recur(max(number - 2, 0))
         return check
 main(int(input()))
+"""hahahaa"""
+
